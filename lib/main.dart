@@ -11,10 +11,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-
       title: 'stash 하고 수정 검사 끝!@!@',
+
       theme: ThemeData(
-        // 여기 변경
+        // 지금 작업 잠시 저장
         // This is the theme of your application.
         //
         // TRY THIS: Try running your application with "flutter run". You'll see
