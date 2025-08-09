@@ -7,7 +7,7 @@ import '../../../../../services/api_service.dart';
 
 enum RfcFunType{
   ZPMA_C0002('ZPMA_C0002');
-
+//여기한다
   const RfcFunType(this.value);
   final String value;
 }
